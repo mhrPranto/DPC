@@ -1,2 +1,2 @@
 # DPC
-A too for creating html page.
+A tool for creating html page.
