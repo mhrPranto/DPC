@@ -1,6 +1,6 @@
 # DPC
-A tool to create Deface page without coding.
-
+An advanced tool to create Deface page without coding.
+Deface Page Creator
 
 Installation:
 
