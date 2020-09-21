@@ -1,28 +1,31 @@
 # DPC
 A tool to create Deface page without coding.
 Installation:
-$termux-setup-storage
 
-$pkg update
+$ termux-setup-storage
 
-$pkg upgrade
+$ pkg update
 
-$pkg install python
+$ pkg upgrade
 
-$pkg install python2
-$pkg install git
+$ pkg install python
 
-$git clone https://github.com/mhrPranto/DPC
+$ pkg install python2
 
-$ls
+$ pkg install git
 
-$python2 create.py
+$ git clone https://github.com/mhrPranto/DPC
+
+$ ls
+
+$ python2 create.py
 
 Download Deface Page in Phone
 
-$ls
+$ ls
 
-$cp -r index.html /sdcard
+$ cp -r index.html /sdcard
+
 Then you will get index.html file in Your file manager.
 Rename your index.html file before creating another deface page.
 (Don't Change .html Extension)
