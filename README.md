@@ -31,3 +31,5 @@ $ cp -r index.html /sdcard
 Then you will get index.html file in Your file manager.
 Rename your index.html file before creating another deface page.
 (Don't Change .html Extension)
+watch the tutorial below
+https://youtu.be/k9IKbSJOeH8
